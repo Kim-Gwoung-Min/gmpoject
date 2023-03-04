@@ -1,7 +1,4 @@
 package home1;
-
-
-
 class Hero{
 	String name;
 	int hp;
